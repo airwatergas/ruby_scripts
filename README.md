@@ -1,2 +1,2 @@
 # ruby_scripts
-Ruby Scripts
+Ruby and SQL scripts
